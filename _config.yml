@@ -2,11 +2,11 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'My name'
+title: 'Мария. Подолог с 24 летнем стажем'
 description: 'У Вас есть время, желание и возможность - а ноги сами приведут Вас к нам!'
 
 # Images
-avatar: 'avatar.jpg'
+avatar: 'photoM.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
