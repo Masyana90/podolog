@@ -2,7 +2,7 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'Мария. Медицинский педюкюр для Вас и ваших близких'
+title: 'Мария. </br><h4>Медицинский педюкюр для Вас и ваших близких</h4>'
 description: 'У Вас есть время, желание и возможность - а ноги сами приведут...'
 
 # Images
@@ -31,6 +31,7 @@ favicon: 'favicon.ico'
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
 vk: 'mariakol1982'
+vk_group: 'podolog_mariakol'
 telegram: 'Maria_Masyana'
 whatsapp: '79215774616'
 #blog_url: 'myblog.blog.com'
@@ -74,6 +75,9 @@ social-links:
     url-pattern: plus.google.com/+__USERNAME__
 
   - name: vk
+    url-pattern: vk.com/__USERNAME__
+
+ - name: vk_group
     url-pattern: vk.com/__USERNAME__
 
   - name: weibo
