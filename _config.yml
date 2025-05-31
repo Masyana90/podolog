@@ -159,7 +159,7 @@ social-links:
     icon-class: fas fa-2x fa-blog
 
   - name: website
-    url-pattern: https://masyana90.github.io/price/__USERNAME__
+    url-pattern: masyana90.github.io/price/__USERNAME__
     icon-class: fa fa-2x fa-chrome
     
   - name: email
