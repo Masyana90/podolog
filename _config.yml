@@ -36,10 +36,10 @@ whatsapp: '79215774616'
 #blog_url: 'myblog.blog.com'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
-website: ''
+price: ''
 phone: '+79215774616'
 
-social-links-order: [telegram, vk, whatsapp, website, phone]
+social-links-order: [telegram, vk, whatsapp, price, phone]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -157,7 +157,7 @@ social-links:
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-blog
 
-  - name: website
+  - name: price
     url-pattern: masyana90.github.io/price/__USERNAME__
     icon-class: fa fa-2x fa-chrome
     
