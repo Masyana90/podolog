@@ -37,9 +37,10 @@ whatsapp: '79215774616'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
 price: ''
+max: 'u/f9LHodD0cOIDWlmFbb30WPRnYsYARx5hOiN-JXVBSh670RS9WmrFy0OLJL8/'
 phone: '+79215774616'
 
-social-links-order: [telegram, vk, whatsapp, price, phone]
+social-links-order: [telegram, vk, max, whatsapp, price, phone]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -170,3 +171,8 @@ social-links:
     url-scheme: 'tel:'
     url-pattern: '__USERNAME__'
     icon-class: fa fa-2x fa-phone
+
+    
+  - name: max
+    url-pattern: https://max.ru/__USERNAME__
+    icon-class: '<svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="www.w3.org" style="vertical-align: middle;"><path d="M12 2C6.477 2 2 6.477 2 12C2 17.523 6.477 22 12 22C17.523 22 22 17.523 22 12C22 6.477 17.523 2 12 2ZM15.5 14.5L12 11L8.5 14.5L7 13L10.5 9.5L12 8L13.5 9.5L17 13L15.5 14.5Z" fill="#007DFF"/></svg>'
